@@ -2,7 +2,6 @@
 
 **Sega Mega Mouse emulator** running on an **Arduino Nano**, allowing a quadrature arcade trackball to be used as a pointing device on the Sega Mega Drive / Genesis.
 
-To my knowledge, this is the first open-source project documenting full Mega Mouse emulation from a 16 MHz AVR microcontroller, including the workaround for SGDK's port classification.
 
 ## Overview
 
