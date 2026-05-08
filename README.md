@@ -9,7 +9,7 @@
 |---|---|
 | Arcade trackball (3-inch, ~25€) | Motion source, quadrature output |
 | Arduino Nano (ATmega168/328P) | Quadrature decoding + Mega Mouse emulation |
-| Sacrificed official MD pad | DB-9 cable to the console |
+| Sacrificed MD pad or a DB-9 female connector | DB-9 cable to the console |
 | Custom SGDK ROM | Manual 3-line handshake reading |
 
 ## Hardware required
