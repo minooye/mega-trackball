@@ -16,7 +16,7 @@
 
 - Arduino Nano (CH340 clone OK, ATmega168PA-AU or ATmega328P, 16 MHz)
 - JAMMA-style arcade trackball with 5V quadrature output (4 axis wires + power)
-- Official Sega Mega Drive 3 or 6 button controller (sacrificed for the DB-9 cable)
+- Sega Mega Drive 3 or 6 button controller (sacrificed for the DB-9 cable)
 - Soldering iron, wires, prototyping board
 
 ## Software required
