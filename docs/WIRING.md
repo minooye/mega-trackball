@@ -1,6 +1,6 @@
 # Wiring
 
-## Mega Drive DB-9 pinout (view from male connector side, the one going into the console)
+## Mega Drive DB-9 pinout (view from male connector side, the one in the console)
 
 ```
         ___________
