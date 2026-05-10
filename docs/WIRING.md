@@ -1,6 +1,6 @@
 # Wiring
 
-## Mega Drive DB-9 pinout (view from male connector side, the one in the console)
+## Mega Drive DB-9 pinout (view from the female connector side, the one from the Pad)
 
 ```
         ___________
@@ -33,14 +33,12 @@ Sacrifice an official Mega Drive 3 or 6-button controller to recover the DB-9 ca
 | 2 | D1 | Red | D6 |
 | 3 | D2 | Orange | D7 |
 | 4 | D3 | Yellow | D8 |
-| 5 | +5V | Green | **not connected** |
+| 5 | +5V | Green | 5V|
 | 6 | TL | Blue | D4 |
 | 7 | TH | Grey | **D2** (INT0) |
 | 8 | GND | Black | GND |
 | 9 | TR | White | **D3** (INT1) |
 
-> The console's +5V is **not** connected to the Arduino: power the Nano via USB or external supply. Connecting both 5V rails would create a power conflict.
-> Be sure to connect the **GND** of the console and the Arduino, otherwise logic levels will not be referenced.
 
 ## Trackball → Arduino Nano wiring
 
